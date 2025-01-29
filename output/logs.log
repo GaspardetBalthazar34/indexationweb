@@ -1,0 +1,54 @@
+2025-01-29 16:49:59,663 - INFO - Lancement du crawl pour : https://web-scraping.dev/products
+2025-01-29 16:49:59,669 - INFO - WebCrawler initialisé avec https://web-scraping.dev/products, max 50 pages.
+2025-01-29 16:49:59,669 - INFO - Traitement de https://web-scraping.dev/products
+2025-01-29 16:50:01,570 - INFO - Traitement de https://web-scraping.dev/product/1
+2025-01-29 16:50:01,570 - INFO - Traitement de https://web-scraping.dev/product/2
+2025-01-29 16:50:01,571 - INFO - Traitement de https://web-scraping.dev/product/3
+2025-01-29 16:50:01,571 - INFO - Traitement de https://web-scraping.dev/product/4
+2025-01-29 16:50:06,570 - INFO - Traitement de https://web-scraping.dev/product/11
+2025-01-29 16:50:07,710 - INFO - Traitement de https://web-scraping.dev/product/14
+2025-01-29 16:50:07,712 - INFO - Traitement de https://web-scraping.dev/product/11?variant=black40
+2025-01-29 16:50:07,729 - INFO - Traitement de https://web-scraping.dev/product/11?variant=black41
+2025-01-29 16:50:07,861 - INFO - Traitement de https://web-scraping.dev/product/11?variant=black42
+2025-01-29 16:50:12,711 - INFO - Traitement de https://web-scraping.dev/product/11?variant=white40
+2025-01-29 16:50:13,669 - INFO - Traitement de https://web-scraping.dev/product/11?variant=white41
+2025-01-29 16:50:13,720 - INFO - Traitement de https://web-scraping.dev/product/11?variant=white42
+2025-01-29 16:50:13,738 - INFO - Traitement de https://web-scraping.dev/product/12
+2025-01-29 16:50:16,380 - INFO - Traitement de https://web-scraping.dev/product/10
+2025-01-29 16:50:18,676 - INFO - Traitement de https://web-scraping.dev/product/10?variant=blue-5
+2025-01-29 16:50:19,510 - INFO - Traitement de https://web-scraping.dev/product/10?variant=blue-6
+2025-01-29 16:50:19,584 - INFO - Traitement de https://web-scraping.dev/product/10?variant=red-5
+2025-01-29 16:50:19,676 - INFO - Traitement de https://web-scraping.dev/product/10?variant=red-6
+2025-01-29 16:50:22,369 - INFO - Traitement de https://web-scraping.dev/product/12?variant=darkgrey-medium
+2025-01-29 16:50:24,613 - INFO - Traitement de https://web-scraping.dev/product/12?variant=darkgrey-small
+2025-01-29 16:50:25,333 - INFO - Traitement de https://web-scraping.dev/product/12?variant=grey-medium
+2025-01-29 16:50:25,448 - INFO - Traitement de https://web-scraping.dev/product/12?variant=grey-small
+2025-01-29 16:50:25,507 - INFO - Traitement de https://web-scraping.dev/product/12?variant=pink-medium
+2025-01-29 16:50:28,440 - INFO - Traitement de https://web-scraping.dev/product/12?variant=pink-small
+2025-01-29 16:50:30,818 - INFO - Traitement de https://web-scraping.dev/product/12?variant=sand-medium
+2025-01-29 16:50:31,162 - INFO - Traitement de https://web-scraping.dev/product/12?variant=sand-small
+2025-01-29 16:50:31,320 - INFO - Traitement de https://web-scraping.dev/product/13
+2025-01-29 16:50:31,343 - INFO - Traitement de https://web-scraping.dev/product/14?variant=one
+2025-01-29 16:50:34,579 - INFO - Traitement de https://web-scraping.dev/product/13?variant=cherry-large
+2025-01-29 16:50:36,873 - INFO - Traitement de https://web-scraping.dev/product/13?variant=cherry-medium
+2025-01-29 16:50:37,013 - INFO - Traitement de https://web-scraping.dev/product/13?variant=cherry-small
+2025-01-29 16:50:37,130 - INFO - Traitement de https://web-scraping.dev/product/13?variant=orange-large
+2025-01-29 16:50:37,147 - INFO - Traitement de https://web-scraping.dev/product/13?variant=orange-medium
+2025-01-29 16:50:40,615 - INFO - Traitement de https://web-scraping.dev/product/13?variant=orange-small
+2025-01-29 16:50:42,842 - INFO - Traitement de https://web-scraping.dev/product/14?variant=six-pack
+2025-01-29 16:50:43,000 - INFO - Traitement de https://web-scraping.dev/product/15
+2025-01-29 16:50:43,039 - INFO - Traitement de https://web-scraping.dev/product/16
+2025-01-29 16:50:43,050 - INFO - Traitement de https://web-scraping.dev/product/17
+2025-01-29 16:50:46,609 - INFO - Traitement de https://web-scraping.dev/product/15?variant=one
+2025-01-29 16:50:48,836 - INFO - Traitement de https://web-scraping.dev/product/15?variant=six-pack
+2025-01-29 16:50:48,958 - INFO - Traitement de https://web-scraping.dev/product/16?variant=one
+2025-01-29 16:50:48,965 - INFO - Traitement de https://web-scraping.dev/product/16?variant=six-pack
+2025-01-29 16:50:48,969 - INFO - Traitement de https://web-scraping.dev/product/17?variant=one
+2025-01-29 16:50:52,578 - INFO - Traitement de https://web-scraping.dev/product/17?variant=six-pack
+2025-01-29 16:50:54,925 - INFO - Traitement de https://web-scraping.dev/product/18
+2025-01-29 16:50:54,996 - INFO - Traitement de https://web-scraping.dev/product/19
+2025-01-29 16:50:55,004 - INFO - Traitement de https://web-scraping.dev/product/1?variant=cherry-large
+2025-01-29 16:50:55,078 - INFO - Traitement de https://web-scraping.dev/product/1?variant=cherry-medium
+2025-01-29 16:50:58,765 - INFO - Traitement de https://web-scraping.dev/product/18?variant=one
+2025-01-29 16:51:04,665 - INFO - Sauvegarde des données dans : output/crawled_data_web-scraping.dev_products.json
+2025-01-29 16:51:04,674 - INFO - Données sauvegardées dans output/crawled_data_web-scraping.dev_products.json.
