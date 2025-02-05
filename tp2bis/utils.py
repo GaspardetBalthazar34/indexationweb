@@ -1,19 +1,18 @@
 import re
-import logging
-
-STOPWORDS = {"the", "a", "an", "of", "in", "to", "is", "on", "for", "with"}
-
-def preprocess_text(text):
-    """Tokenise le texte et supprime les stopwords."""
-    text = re.sub(r"[^\w\s]", "", text.lower())
-    tokens = text.split()
-    return [word for word in tokens if word not in STOPWORDS]
 
 def extract_product_id(url):
-    """Extrait l'ID produit depuis l'URL."""
-    match = re.search(r"/product/(\d+)", url)
+    """Extrait l'ID produit d'une URL donnée."""
+    match = re.search(r'/product/(\d+)', url)
     return match.group(1) if match else None
 
-def setup_logging(log_file):
-    """Configure le logging vers un fichier."""
-    logging.basicConfig(filename=log_file, level=logging.INFO, format="%(asctime)s - %(message)s")
+def extract_variant(url):
+    """Extrait la variante d'une URL si elle est présente."""
+    match = re.search(r'variant=([\w-]+)', url)
+    return match.group(1) if match else None
+
+def tokenize(text):
+    """Nettoie et tokenize un texte en supprimant la ponctuation et les stopwords basiques."""
+    text = text.lower()
+    text = re.sub(r'[^\w\s]', '', text)  # Supprime la ponctuation
+    tokens = text.split()
+    return [token for token in tokens if token not in {"the", "and", "is", "in", "on", "at", "of"}]
